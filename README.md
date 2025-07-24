@@ -31,4 +31,4 @@ Este é um projeto que visa replicar o layout da página inicial do **Discord**,
 
 1. **Clone o repositório** para a sua máquina local:
    ```bash
-   git clone https://github.com/SEU_USUARIO/discord-clone.git
+   git clone [https://github.com/melpalme94/Construindo-um-Layout-Responsivo-Para-o-Site-do-Discord-Com-CSS.git]
